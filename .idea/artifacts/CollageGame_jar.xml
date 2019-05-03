@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CollageGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CollageGame_jar</output-path>
+    <root id="archive" name="CollageGame.jar">
+      <element id="module-output" name="CollageGame" />
+    </root>
+  </artifact>
+</component>

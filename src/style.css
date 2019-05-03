@@ -1,0 +1,42 @@
+#main-box{
+    -fx-background-color: #FFFF00;
+}
+
+#textfield {
+    -fx-background-color: #d3d3d3;
+    -fx-font-size: 18px;
+    -fx-font-family: "Lato";
+}
+
+#main-button {
+    -fx-padding: 10px;
+    -fx-shadow: none;
+    -fx-font-size: 20px;
+    -fx-font-family: "Lato";
+    -fx-background-color: #000;
+    -fx-text-fill: #fff;
+    -fx-border-radius: 0px;
+        }
+
+.text {
+    -fx-font-weight: 600;
+    -fx-letter-spacing: 1px;
+    -fx-text-fill: #ff0000;
+}
+
+.image {
+    -fx-height: 100%;
+}
+
+#error {
+    -fx-font-family: "Lato";
+    -fx-font-size: 20px;
+    -fx-letter-spacing: 1px;
+}
+
+#instruction {
+    -fx-font-family: "Lato";
+    -fx-font-size: 20px;
+    -fx-letter-spacing: 1px;
+
+}
